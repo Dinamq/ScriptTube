@@ -1,0 +1,4 @@
+Modules required:
+	- pytube
+	- customtkinter
+
